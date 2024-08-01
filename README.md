@@ -1,7 +1,7 @@
-Hola 👋, me llamo Efrain Aguilar
+                                                 Hola 👋, me llamo Efrain Aguilar
 
 
-Soy frontend
+                                                             Soy frontend
 
 
 💬 Pregúntame sobre html, css y javascript.
