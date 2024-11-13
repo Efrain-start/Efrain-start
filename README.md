@@ -84,7 +84,7 @@
 
 <li>
 <a href="https://x.com/home" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  Efrain Aguilar-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/Twitter Efrain Aguilar-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -92,7 +92,7 @@
 
 <li>
 <a href="mailto:efra@efrainaguilar.com" target="_blank">
-<img src="https://img.shields.io/badge/MAIL:  Efrain Aguilar-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Gmail Efrain Aguilar-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 
@@ -100,7 +100,15 @@
 
 <li>
 <a href="https://www.instagram.com/efrainaguilar280324/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram:  Efrain Aguilar-%2300acee.svg?color=405DE6&style=for-the-badge&logo=&logoColor=white" alt=Instagram style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/Instagram Efrain Aguilar-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=Instagram style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<br>
+
+<li>
+<a href="https://www.tiktok.com/@efrainaguilar96" target="_blank">
+<img src="https://img.shields.io/badge/TikTok Efrain Aguilar-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt=Instagram style="margin-bottom: 5px;"/>
 </a>
 </li>
 
