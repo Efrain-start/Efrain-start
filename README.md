@@ -19,7 +19,7 @@
 - :technologist: A passionate Self-taught Front-end development.
 - :computer: Currently learning Web Development by Self.
 - :boom: Personal website [link](https://efrainaguilar.com)
-- :student: I’m currently open to a new job opportunity, this is [my resume](#)
+- :student: I’m currently open to a new job opportunity.
 
 <br><br>
 
