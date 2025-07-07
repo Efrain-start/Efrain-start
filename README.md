@@ -18,7 +18,7 @@
 
 - :technologist: A passionate Self-taught Front-end development.
 - :computer: Currently learning Web Development by Self.
-- :boom: Personal website [link](efrainaguilar.com).
+- :boom: Personal website [link](#efrainaguilar.com).
 - :student: I’m currently open to a new job opportunity, this is [my resume](#)
 
 <br><br>
