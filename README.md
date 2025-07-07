@@ -120,7 +120,7 @@
 
 
 
-Credit: [Efrain Aguilar](https://github.com/0xabdulkhali)
+Credit: Efrain Aguilar
 
 Last Edited on: 06/07/2025
 <!--
