@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./banner-efracode.png" width="100%" alt="EfraCode Banner">
+</p>
 
 <h1 align="center">👋 Hi, I'm <b>Efrain Aguilar</b></h1>
 <h3 align="center">Front-End Developer | Digital Designer | EfraCode 🎨💻</h3>
