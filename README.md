@@ -44,10 +44,14 @@ Explora mis videos educativos donde explico temas como la Web, Internet y la evo
       <b>Diferencia entre Internet y la Web</b>
     </td>
     <td align="center">
-      <img src="https://cdn-icons-png.flaticon.com/512/854/854878.png" width="120" alt="Próximo video">
-      <br>
-      <b>🎬 Próximo video</b>
-    </td>
+  <a href="https://www.youtube.com/watch?v=_DZ4anEdrEI&t=31s" target="_blank"> 
+    <img src="https://img.youtube.com/vi/_DZ4anEdrEI/hqdefault.jpg" width="320" alt="Cómo funciona una página web">
+  </a>
+  <br>
+  <b>Cómo funciona una página web</b>
+</td>
+
+	  
   </tr>
 </table>
 
