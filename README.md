@@ -3,8 +3,12 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm <b>Efrain Aguilar</b></h1>
+<h3 align="center">💻 Front-End Developer | Digital Designer | Creator at <b>EfraCode</b></h3>
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Efrain-start&label=Profile%20Views&color=0e75b6&style=flat" alt="Efrain-start" />
+  <img src="https://img.shields.io/youtube/channel/subscribers/UCr7YlW-FakeID?style=social" alt="YouTube subscribers" />
+</p>
 
 
 
@@ -21,7 +25,7 @@
 
 <br>
 
-- :technologist: A passionate Self-taught Front-end development.
+- :technologist: A passionate self-taught Front-End Developer.
 - :computer: Currently learning Web Development by Self.
 - :boom: Personal website [link](https://efrainaguilar.com)
 - :student: I’m currently open to a new job opportunity.
@@ -55,7 +59,13 @@ Explora mis videos educativos donde explico temas como la Web, Internet y la evo
   <br>
   <b>Cómo funciona una página web</b>
 </td>
-
+<td align="center">
+  <a href="https://www.youtube.com/watch?v=A_jFVTS1HLM&t=4s" target="_blank"> 
+    <img src="https://img.youtube.com/vi/A_jFVTS1HLM/hqdefault.jpg" width="320" alt="¿Qué es una URL?">
+  </a>
+  <br>
+  <b>¿Qué es una URL?</b>
+</td>
 	  
   </tr>
 </table>
@@ -153,7 +163,7 @@ Explora mis videos educativos donde explico temas como la Web, Internet y la evo
 
 Credit: Efrain Aguilar
 
-<p align="center">🕓 <i>Last updated on October 10, 2025</i></p>
+<p align="center">🕓 <i>Last updated: October 2025</i></p>
 
 <!--
 **Efrain-start/Efrain-start** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
