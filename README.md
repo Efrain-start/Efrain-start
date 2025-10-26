@@ -24,6 +24,12 @@
 
 
 <br>
+<p align="center">
+  I'm passionate about turning ideas into interactive web experiences 🌐  
+  and sharing knowledge through creative and visual content.
+</p>
+
+
 
 - :technologist: A passionate self-taught Front-End Developer.
 - :computer: Currently learning Web Development by Self.
@@ -53,29 +59,32 @@ Explora mis videos educativos donde explico temas como la Web, Internet y la evo
       <b>Diferencia entre Internet y la Web</b>
     </td>
     <td align="center">
-  <a href="https://www.youtube.com/watch?v=_DZ4anEdrEI&t=31s" target="_blank"> 
-    <img src="https://img.youtube.com/vi/_DZ4anEdrEI/hqdefault.jpg" width="320" alt="Cómo funciona una página web">
-  </a>
-  <br>
-  <b>Cómo funciona una página web</b>
-</td>
-<td align="center">
-  <a href="https://www.youtube.com/watch?v=A_jFVTS1HLM&t=4s" target="_blank"> 
-    <img src="https://img.youtube.com/vi/A_jFVTS1HLM/hqdefault.jpg" width="320" alt="¿Qué es una URL?">
-  </a>
-  <br>
-  <b>¿Qué es una URL?</b>
-</td>
-<td align="center">
-  <a href="https://www.youtube.com/shorts/kxiAarpN7kM" target="_blank"> 
-    <img src="https://img.youtube.com/vi/kxiAarpN7kM/hqdefault.jpg" width="320" alt="¿Qué es una URL?">
-  </a>
-  <br>
-  <b>Front-End vs Back-End</b>
-</td>
-	  
+      <a href="https://www.youtube.com/watch?v=_DZ4anEdrEI&t=31s" target="_blank">
+        <img src="https://img.youtube.com/vi/_DZ4anEdrEI/hqdefault.jpg" width="320" alt="Cómo funciona una página web">
+      </a>
+      <br>
+      <b>Cómo funciona una página web</b>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=A_jFVTS1HLM&t=4s" target="_blank">
+        <img src="https://img.youtube.com/vi/A_jFVTS1HLM/hqdefault.jpg" width="320" alt="¿Qué es una URL?">
+      </a>
+      <br>
+      <b>¿Qué es una URL?</b>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" colspan="4">
+      <a href="https://www.youtube.com/shorts/kxiAarpN7kM" target="_blank">
+        <img src="https://img.youtube.com/vi/kxiAarpN7kM/hqdefault.jpg" width="320" alt="Front-End vs Back-End">
+      </a>
+      <br>
+      <b>Front-End vs Back-End</b>
+    </td>
   </tr>
 </table>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 💡 **I love building interactive and responsive websites using modern web technologies.**
