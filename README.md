@@ -66,6 +66,13 @@ Explora mis videos educativos donde explico temas como la Web, Internet y la evo
   <br>
   <b>¿Qué es una URL?</b>
 </td>
+<td align="center">
+  <a href="https://www.youtube.com/shorts/kxiAarpN7kM" target="_blank"> 
+    <img src="https://img.youtube.com/vi/kxiAarpN7kM/hqdefault.jpg" width="320" alt="¿Qué es una URL?">
+  </a>
+  <br>
+  <b>Front-End vs Back-End</b>
+</td>
 	  
   </tr>
 </table>
