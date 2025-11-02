@@ -65,6 +65,9 @@ Explora mis videos educativos donde explico temas como la Web, Internet y la evo
       <br>
       <b>Cómo funciona una página web</b>
     </td>
+  </tr>
+
+  <tr>
     <td align="center">
       <a href="https://www.youtube.com/watch?v=A_jFVTS1HLM&t=4s" target="_blank">
         <img src="https://img.youtube.com/vi/A_jFVTS1HLM/hqdefault.jpg" width="320" alt="¿Qué es una URL?">
@@ -72,18 +75,23 @@ Explora mis videos educativos donde explico temas como la Web, Internet y la evo
       <br>
       <b>¿Qué es una URL?</b>
     </td>
-  </tr>
-
-  <tr>
-    <td align="center" colspan="4">
+    <td align="center">
       <a href="https://www.youtube.com/shorts/kxiAarpN7kM" target="_blank">
         <img src="https://img.youtube.com/vi/kxiAarpN7kM/hqdefault.jpg" width="320" alt="Front-End vs Back-End">
       </a>
       <br>
       <b>Front-End vs Back-End</b>
     </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=gnKVH2kS90c" target="_blank">
+        <img src="https://img.youtube.com/vi/gnKVH2kS90c/hqdefault.jpg" width="320" alt="Así se ve HTML, CSS y JavaScript">
+      </a>
+      <br>
+      <b>Así se ve HTML, CSS y JavaScript</b>
+    </td>
   </tr>
 </table>
+
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
