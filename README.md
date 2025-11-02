@@ -187,7 +187,7 @@ Explora mis videos educativos donde explico temas como la Web, Internet y la evo
 
 Credit: Efrain Aguilar
 
-<p align="center">🕓 <i>Last updated: October 2025</i></p>
+<p align="center">🕓 <i>Last updated: November 2025</i></p>
 
 <!--
 **Efrain-start/Efrain-start** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
