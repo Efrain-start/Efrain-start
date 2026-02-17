@@ -129,9 +129,10 @@ Explora mis videos educativos donde explico temas como la Web, Internet y la evo
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Efrain-start&show_icons=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Efrain-start&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Efrain-start&show_icons=true&theme=transparent&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Efrain-start&layout=compact&theme=transparent&cache_seconds=86400" />
 </p>
+
 
 
 ## 🚀 Featured Projects
