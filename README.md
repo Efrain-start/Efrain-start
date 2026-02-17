@@ -126,12 +126,6 @@ Explora mis videos educativos donde explico temas como la Web, Internet y la evo
 </p>
 
 <br>
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Efrain-start&show_icons=true" />
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Efrain-start&layout=compact" />
-
-
 
 
 ## 🚀 Featured Projects
