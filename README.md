@@ -126,7 +126,45 @@ Explora mis videos educativos donde explico temas como la Web, Internet y la evo
 </p>
 
 <br>
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Efrain-start&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Efrain-start&layout=compact" />
+</p>
+
+
+## 🚀 Featured Projects
+
+### 🤖 Chatbot Simple
+Chatbot básico que responde a preguntas predefinidas y simula una conversación en tiempo real.
+
+**Tecnologías:** HTML, CSS, JavaScript  
+🔗 https://github.com/Efrain-start/chatbot-simple
+
+---
+
+### 💸 SplitMate
+Aplicación para dividir gastos entre amigos con cálculo automático de balances.
+
+**Tecnologías:** React, Redux Toolkit, Firebase  
+🔗 https://github.com/Efrain-start/splitmate
+
+---
+
+### 🎵 Biblioteca Musical
+App para gestionar colecciones musicales y explorar contenido.
+
+**Tecnologías:** React, Redux Toolkit, Firebase  
+🔗 https://github.com/Efrain-start/biblioteca-musical
+
+---
+
+### 📰 CARAS Landing Page
+Landing page optimizada con enfoque en SEO y conversión.
+
+**Tecnologías:** React, TypeScript  
+🔗 https://github.com/Efrain-start/caras-landing
 
 
 
